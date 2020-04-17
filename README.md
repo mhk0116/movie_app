@@ -1,3 +1,3 @@
-movie_app
+# Movie App
 
 React JS Fundamentals Course
